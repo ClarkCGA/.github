@@ -1,0 +1,2 @@
+<img src="_images/ClarkUniversity.jpg" alt="isolated" width="400"/>
+Center for Geospatial Analytics (CGA) at Clark University is a new entity established to catalyze synergistic research that uses geospatial analytics to address pressing issues of global environmental change, particularly climate change. This new Center will play an entrepreneurial role at the forefront of this rapidly evolving field by expanding into a larger and more ambitious center of excellence building on the success of Clark Labs. 
